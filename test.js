@@ -1,2 +1,2 @@
 console.log("hello")
-console.log("hate javascript")
+console.log("i love javascript")
